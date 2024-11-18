@@ -1,0 +1,101 @@
+Category,Difficulty,Question,Answer
+History,Easy,In which year did the American Civil War begin?,1861
+History,Easy,In what year did the Titanic sink?,1912
+History,Easy,How many days are in a leap year?,366
+History,Easy,How many continents are there on Earth?,7
+History,Medium,In which year did the French Revolution begin?,1789
+History,Medium,For how many years did Queen Victoria reign over the United Kingdom?,63
+History,Medium,How many years did the Hundred Years' War last?,116
+History,Medium,In what year did the Soviet Union collapse?,1991
+History,Medium,In what year was the Declaration of Independence signed?,1776
+History,Medium,In what year did Ukraine declare independence from the Soviet Union?,1991
+History,Medium,How many voyages did Christopher Columbus make to the New World?,4
+History,Medium,In what year did World War I begin?,1914
+History,Medium,In what year did the fall of Constantinople occur?,1453
+History,Medium,How old was Tutankhamun when he became Pharaoh?,9
+History,Medium,How many pyramids are there in the Giza pyramid complex?,3
+History,Medium,In what year did Napoleon Bonaparte die?,1821
+History,Hard,In what year did the Treaty of Westphalia end the Thirty Years' War?,1648
+History,Hard,How many theses did Martin Luther famously nail to the church door?,95
+History,Hard,In what year did the Spanish Armada take place?,1588
+History,Hard,How many days did the Cuban Missile Crisis last?,13
+Technology,Easy,How many bits are in a byte?,8
+Technology,Easy,What is the decimal equivalent of binary 1010?,10
+Technology,Easy,What does the 'K' in '4K resolution' stand for?,4000
+Technology,Easy,How many primary colors are there in the RGB color model?,3
+Technology,Medium,In what year was the World Wide Web invented?,1989
+Technology,Medium,How many layers are in the OSI model?,7
+Technology,Medium,What is the speed of light in vacuum in km/s?,299792
+Technology,Medium,What does the '404' HTTP status code signify?,404
+Technology,Medium,In what year was the first iPhone released?,2007
+Technology,Medium,How many bytes are in a kilobyte (binary definition)?,1024
+Technology,Medium,What is the default port number for HTTP?,80
+Technology,Medium,How many nanometers are in a micrometer?,1000
+Technology,Medium,Approximate number of transistors in a modern CPU (in billions)?,1
+Technology,Medium,What is the default port number for SSH?,22
+Technology,Medium,How many bits are in an IPv4 address?,32
+Technology,Medium,In what year was the programming language Python first released?,1991
+Technology,Hard,What is the ASCII code for uppercase letter 'A'?,65
+Technology,Hard,In what year was the first programmable computer 'Z3' completed?,1941
+Technology,Hard,How many qubits did Google's Sycamore processor have when achieving quantum supremacy?,53
+Technology,Hard,What is the base (radix) of the hexadecimal number system?,16
+Movies,Easy,How many 'Harry Potter' films are there in the main series?,8
+Movies,Easy,In what year was the movie 'Titanic' released?,1997
+Movies,Easy,How many Academy Awards did 'The Lord of the Rings: The Return of the King' win?,11
+Movies,Easy,How many fingers does Mickey Mouse have on each hand?,4
+Movies,Medium,In what year was the first 'Star Wars' movie released?,1977
+Movies,Medium,How old was Daniel Radcliffe when he first played Harry Potter?,11
+Movies,Medium,How many Oscar nominations has Meryl Streep received (as of 2021)?,21
+Movies,Medium,In what year did 'The Godfather' premiere?,1972
+Movies,Medium,How many films are in the Marvel Cinematic Universe Phase One?,6
+Movies,Medium,What is the runtime in minutes of 'Gone with the Wind'?,221
+Movies,Medium,In what year was 'Schindler's List' released?,1993
+Movies,Medium,How many Oscars did 'La La Land' win?,6
+Movies,Medium,In what year did the first James Bond film 'Dr. No' release?,1962
+Movies,Medium,How many actors have officially played James Bond in the film series?,6
+Movies,Medium,In what year was 'Spirited Away' released?,2001
+Movies,Medium,How many Academy Awards did 'Slumdog Millionaire' win?,8
+Movies,Hard,Standard frames per second for traditional film projection?,24
+Movies,Hard,In what year was the silent film 'Metropolis' released?,1927
+Movies,Hard,How many Oscar nominations has Leonardo DiCaprio received (as of 2021)?,6
+Movies,Hard,What is the runtime in minutes of 'Ben-Hur' (1959)?,212
+Science,Easy,What is the boiling point of water at sea level in Celsius?,100
+Science,Easy,How many elements are there in the periodic table (as of 2021)?,118
+Science,Easy,How many teeth does an adult human have?,32
+Science,Easy,How many planets in our solar system have rings?,4
+Science,Medium,What is the average normal body temperature in Celsius?,37
+Science,Medium,What is the acceleration due to gravity on Earth in m/s²?,9.8
+Science,Medium,How many chromosomes are in a typical human cell?,46
+Science,Medium,What is the atomic number of carbon?,6
+Science,Medium,How many bones are in the adult human body?,206
+Science,Medium,What is the speed of sound in air at 20°C in m/s?,343
+Science,Medium,Approximate age of the Earth in billion years?,4.5
+Science,Medium,How many natural satellites (moons) does Mars have?,2
+Science,Medium,What is the pH of pure water?,7
+Science,Medium,"What is Avogadro's number (to two significant figures, in 10^23)?",6
+Science,Medium,How many valence electrons does oxygen have?,6
+Science,Medium,Standard atmospheric pressure at sea level in kPa?,101.3
+Science,Hard,Half-life of Uranium-238 in billion years?,4.5
+Science,Hard,How many fundamental forces are there in physics?,4
+Science,Hard,Value of Planck's constant (to two significant figures in 10^-34 Js)?,6.6
+Science,Hard,How many amino acids are considered essential for humans?,9
+Politics,Easy,How many member states are in the United Nations?,193
+Politics,Easy,How many stars are on the flag of the European Union?,12
+Politics,Easy,How many permanent members are there in the UN Security Council?,5
+,,,
+Politics,Medium,In what year did the Maastricht Treaty establish the European Union?,1993
+Politics,Medium,How many countries are in the European Union (as of 2021)?,27
+Politics,Medium,How many countries are members of NATO?,30
+Politics,Medium,How many chambers are in the UK Parliament?,2
+Politics,Medium,How many republics made up the former Soviet Union?,15
+Politics,Medium,Number of nuclear-weapon states recognized under the Non-Proliferation Treaty?,5
+Politics,Medium,In what year was the United Nations founded?,1945
+Politics,Medium,How many official languages does the United Nations have?,6
+Politics,Medium,Term length in years for a Ukrainian president?,5
+Politics,Medium,How many members are in the European Parliament?,705
+Politics,Medium,How many articles are there in the Universal Declaration of Human Rights?,30
+Politics,Medium,In what year did the Treaty of Lisbon come into force?,2009
+Politics,Hard,In what year did the Congress of Vienna take place?,1815
+Politics,Hard,Number of countries in the Commonwealth of Independent States?,9
+Politics,Hard,How many judges are on the International Court of Justice?,15
+Politics,Hard,In what year was the League of Nations founded?,1920
